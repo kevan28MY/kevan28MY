@@ -11,7 +11,7 @@ Si deseas ponerse en contacto conmigo, puedes encontrarme en:
 ¡No dudes en contactarme si tienes alguna pregunta, oportunidad de colaboración o simplemente quieres charlar sobre tecnología! Estoy abierto a nuevas ideas y proyectos emocionantes.
 
 ## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevan28MY&show_icons=true)
+<!--![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=kevan28MY&show_icons=true)-->
 
 ¡Gracias por visitar mi perfil de GitHub! Espero que encuentres interesante mi trabajo y contribuciones. ¡No dudes en explorar mi repositorio y dejar una estrella en los proyectos que te gusten!
 
