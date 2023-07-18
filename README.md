@@ -1,8 +1,14 @@
 ### Hi there 👋
 
 ## Sobre mí
-Soy un apasionado de la programación y la tecnología. Me encanta explorar nuevas tecnologías y aprender constantemente. Estoy especialmente interesado en [áreas específicas de interés]. 
+¡Hola! Soy Kevin Melgarejo, un estudiante de 19 años de Ingeniería de Sistemas en la Universidad Cesar Vallejo. Me apasiona la tecnología y disfruto trabajar en proyectos relacionados con el desarrollo de software. Tengo algunos proyectos emocionantes en mente que planeo desarrollar a futuro.
 
+## Hobbies
+- 🏎️ Amante de la Fórmula 1 y seguidor de las carreras de automovilismo.
+- 🚗 Coleccionista de Hot Wheels y entusiasta de los autos a escala.
+- 🎧 Amante de la música electrónica.
+- 👨‍💻 Actualmente aprendiendo desarrollo web. 
+  
 ## Contacto
 Si deseas ponerse en contacto conmigo, puedes encontrarme en:
 - Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
