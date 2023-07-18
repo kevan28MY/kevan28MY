@@ -8,10 +8,11 @@
 - 👨‍💻 Actualmente aprendiendo desarrollo web. 
   
 ## Contacto
+<!--
 Si deseas ponerse en contacto conmigo, puedes encontrarme en:
 - Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
 - LinkedIn: [Tu Perfil de LinkedIn](enlace_a_tu_perfil_de_linkedin)
-
+-->
 ¡No dudes en contactarme si tienes alguna pregunta, oportunidad de colaboración o simplemente quieres charlar sobre tecnología! Estoy abierto a nuevas ideas y proyectos emocionantes.
 
 ## Estadísticas de GitHub
