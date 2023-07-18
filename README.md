@@ -8,6 +8,9 @@
 - 👨‍💻 Actualmente aprendiendo desarrollo web. 
   
 ## Contacto
+- Correo electrónico:
+- LinkedIn:
+- Instagram:
 <!--
 Si deseas ponerse en contacto conmigo, puedes encontrarme en:
 - Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
