@@ -98,9 +98,9 @@ I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad
 
 ---
 
-<div align="center">
+<div >
 <h2 style="margin: 5px 10px;">GitHub Statistics :chart_with_upwards_trend:</h2> 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; ">
 
 [![](https://github-readme-stats.vercel.app/api?username=kevan28MY&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/kevan28MY)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kevan28MY&theme=tokyonight&hide_border=true)](https://github.com/kevan28MY)
